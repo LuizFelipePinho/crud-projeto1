@@ -1,7 +1,6 @@
 {
   "name": "projeto1(continuacao)",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -13,5 +12,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizFelipePinho/crud-projeto1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuizFelipePinho/crud-projeto1/issues"
+  },
+  "homepage": "https://github.com/LuizFelipePinho/crud-projeto1#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
