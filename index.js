@@ -212,3 +212,6 @@ app.listen(port, function () {
     console.log(`app rodando na porta http://localhost:${port}/`);
 })
 
+
+
+// linha 102
